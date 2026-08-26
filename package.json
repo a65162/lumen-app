@@ -1,0 +1,8 @@
+{
+  "name": "lumen-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node app.mjs"
+  }
+}
